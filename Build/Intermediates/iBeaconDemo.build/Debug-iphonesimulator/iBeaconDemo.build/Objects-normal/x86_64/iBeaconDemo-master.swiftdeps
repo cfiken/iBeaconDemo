@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.59 clang-700.0.72)"
+options: "a0e375be79329e002bde1654ec8dd764"
+build_time: [497277937, 393241000]
+inputs: 
+	"/Users/kentaro/keel/workspace/iBeaconDemo/iBeaconDemo/ViewController.swift": [497277935, 0]
+	"/Users/kentaro/keel/workspace/iBeaconDemo/iBeaconDemo/AppDelegate.swift": [497277876, 0]
